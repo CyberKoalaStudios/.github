@@ -2,4 +2,4 @@
 
 Game development studio and e-learning.
 
-We make VR games that nobody ever created.
+We make XR tutorials that nobody ever created.
