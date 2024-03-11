@@ -2,4 +2,4 @@
 
 Enterprise software development company.
 
-We make tutorials that nobody ever created.
+We make world-class products.
