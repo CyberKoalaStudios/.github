@@ -1,6 +1,6 @@
 # CyberKoala LLC
 
-Development studio and e-learning.
+Enterprise software development company.
 
 We make tutorials that nobody ever created.
 
