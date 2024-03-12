@@ -5,10 +5,11 @@
 Enterprise software development company.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/85986263/)
+
 We are not an ordinary company and we will not go any other way.
 
-Our goal is to open doors of opportunity for you.
-Our reward is to see your success.
+🎯Our goal is to open doors of opportunity for you.
+🏆Our reward is to see your success.
 
 If we have fun creating our projects, much of that positive energy and fun will flow into the community. Our team consists of a first-class team of talented, ambitious and thoughtful people. And we are developing slowly and hope that in the right direction.
 
