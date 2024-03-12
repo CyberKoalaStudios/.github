@@ -99,5 +99,10 @@ Enterprise software development company.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
+---
+
+![YouTube Channel Views Coolday](https://img.shields.io/youtube/channel/views/UCUpVfgd42h7pwZwCTcwjp8g)
+![YouTube Channel Views CyberkoalaRu](https://img.shields.io/youtube/channel/views/UCfEBnO2ZWyDHnN6bQSSlg1w)
+![YouTube Channel Views CyberkoalaLearn](https://img.shields.io/youtube/channel/views/UCzt_iPOTmriJlUjnJNDmm_g)
 
 
