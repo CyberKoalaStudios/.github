@@ -1,10 +1,12 @@
-# CyberKoala LLC
+# CyberKoala™️ LLC
+
+[![CyberKoala Logo](https://cyberkoalastudios.com/wp-content/uploads/2023/05/Koala_For_email.png)](https://learn.cyberkoalastudios.com)
 
 Enterprise software development company.
 
 ## We use:
 
-### Web Development:
+### Web development:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
