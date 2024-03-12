@@ -116,4 +116,3 @@ If we have fun creating our projects, much of that positive energy and fun will 
 ![YouTube Channel Views CyberkoalaRu](https://img.shields.io/youtube/channel/views/UCfEBnO2ZWyDHnN6bQSSlg1w)
 ![YouTube Channel Views CyberkoalaLearn](https://img.shields.io/youtube/channel/views/UCzt_iPOTmriJlUjnJNDmm_g)
 
-
