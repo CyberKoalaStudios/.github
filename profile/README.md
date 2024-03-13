@@ -2,7 +2,7 @@
 
 [![CyberKoala Logo](https://cyberkoalastudios.com/wp-content/uploads/2023/05/Koala_For_email.png)](https://learn.cyberkoalastudios.com)
 
-Enterprise software development company since 2022.
+Enterprise software development company. Working since 2022.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/85986263/)
 
