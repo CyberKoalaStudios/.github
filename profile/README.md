@@ -16,9 +16,10 @@ If we have fun creating our projects, much of that positive energy and fun will 
 
 If you have any feedback, please reach out to us at contact@cyberkoalastudios.com
 
-
-## We use
-
+<details>
+<summary>We use</summary>
+<br>
+  
 ### Web development
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -111,6 +112,7 @@ If you have any feedback, please reach out to us at contact@cyberkoalastudios.co
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+</details>
 
 ---
 
