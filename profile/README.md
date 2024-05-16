@@ -6,6 +6,10 @@ Enterprise software development company. Delivering world-class applications sin
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/85986263/)
 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzt_iPOTmriJlUjnJNDmm_g)
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfEBnO2ZWyDHnN6bQSSlg1w)
+
 🎯Our goal is to open doors of opportunity for you.
 
 🏆Our reward is to see your success.
