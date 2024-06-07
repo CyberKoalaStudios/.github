@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: CyberKoala Community Support
-    url: https://github.com/orgs/CyberKoalaStudios/discussions/new/choose
-    about: Please ask and answer questions here.
-  # - name: CyberKoala Security Bug Bounty
-  #   url: https://bounty.github.com/
-  #   about: Please report security vulnerabilities here.
