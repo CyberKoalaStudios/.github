@@ -1,6 +1,6 @@
 ---
 name: 🐛 Client Bug - in the library
-description: Create a report to help us improve Talksy by reproducing and fixing bugs
+description: Create a report to help us improve CyberKoala by reproducing and fixing bugs
 title: "[CLI]: "
 labels:
   - "cli"
