@@ -1,6 +1,6 @@
 # CyberKoala™️ LLC
 
-[![CyberKoala Logo](https://cyberkoalastudios.com/wp-content/uploads/2023/05/Koala_For_email.png)](https://learn.cyberkoalastudios.com)
+[![CyberKoala Logo](https://cyberkoalastudios.com/icons/cyberkoala-logo.svg)](https://learn.cyberkoalastudios.com)
 
 Enterprise software development company. Delivering world-class applications since 2022.
 
