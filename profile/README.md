@@ -127,7 +127,7 @@ If you have any feedback, please reach out to us at contact@cyberkoalastudios.co
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfEBnO2ZWyDHnN6bQSSlg1w)
 -->
 
-[https://www.youtube.com/channel/UCUpVfgd42h7pwZwCTcwjp8g](https://www.youtube.com/@CyberKoalaLearn)
+[@CyberKoalaLearn](https://www.youtube.com/@CyberKoalaLearn)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CyberKoalaStudios&color=blue&style=flat" alt="Profile Views">
