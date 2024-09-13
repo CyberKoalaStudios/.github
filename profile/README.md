@@ -129,6 +129,8 @@ If you have any feedback, please reach out to us at contact@cyberkoalastudios.co
 
 [@CyberKoalaLearn](https://www.youtube.com/@CyberKoalaLearn)
 
+[Discussions](https://discuss.cyberkoalastudios.com/)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CyberKoalaStudios&color=blue&style=flat" alt="Profile Views">
 </p>
