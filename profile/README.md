@@ -117,6 +117,7 @@ If you have any feedback, please reach out to us at contact@cyberkoalastudios.co
 
 ---
 
+<!--
 ![YouTube Channel Views Coolday](https://img.shields.io/youtube/channel/views/UCUpVfgd42h7pwZwCTcwjp8g)
 ![YouTube Channel Views CyberkoalaRu](https://img.shields.io/youtube/channel/views/UCfEBnO2ZWyDHnN6bQSSlg1w)
 ![YouTube Channel Views CyberkoalaLearn](https://img.shields.io/youtube/channel/views/UCzt_iPOTmriJlUjnJNDmm_g)
@@ -124,7 +125,10 @@ If you have any feedback, please reach out to us at contact@cyberkoalastudios.co
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzt_iPOTmriJlUjnJNDmm_g)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfEBnO2ZWyDHnN6bQSSlg1w)
+-->
 
-  <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=CyberKoalaStudios&color=blue&style=flat" alt="Profile Views">
-    </p>
+[https://www.youtube.com/channel/UCUpVfgd42h7pwZwCTcwjp8g](https://www.youtube.com/@CyberKoalaLearn)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CyberKoalaStudios&color=blue&style=flat" alt="Profile Views">
+</p>
