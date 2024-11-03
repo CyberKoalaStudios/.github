@@ -134,3 +134,5 @@ If you have any feedback, please reach out to us at contact@cyberkoalastudios.co
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CyberKoalaStudios&color=blue&style=flat" alt="Profile Views">
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=cyberkoala&label=Company%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
