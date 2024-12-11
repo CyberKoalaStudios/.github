@@ -6,9 +6,10 @@ Enterprise software development company. Delivering world-class applications sin
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/85986263/)
 
+🌏Our mission: making the world a better place through the power of design.
 
 🎯Our goal is to open doors of opportunity for you.
-🌏Our mission: making the world a better place through the power of design.
+
 🏆Our reward is to see your success.
 
 If we have fun creating our projects, much of that positive energy and fun will flow into the community. Our team consists of a world-class team of talented, ambitious and thoughtful people.
