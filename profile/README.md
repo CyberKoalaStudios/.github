@@ -18,6 +18,11 @@ If we have fun creating our projects, much of that positive energy and fun will 
 
 CyberKoala Calls
 
+[![https://img.youtube.com/vi/MYtBh15G1sc/0.jpg](https://img.youtube.com/vi/MYtBh15G1sc/0.jpg)](https://calls.cyberkoala.ru/landing)
+
+> https://youtu.be/MYtBh15G1sc
+ 
+
 [![talksy](https://snapcraft.io/talksy/badge.svg)](https://snapcraft.io/talksy)
 [![talksy](https://snapcraft.io/talksy/trending.svg?name=0)](https://snapcraft.io/talksy)
 
