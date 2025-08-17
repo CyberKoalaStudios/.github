@@ -28,7 +28,7 @@ CyberKoala Calls
 
 [![Get it from the Snap Store](https://snapcraft.io/en/dark/install.svg)](https://snapcraft.io/talksy)
 
-> Certificate of state registration of computer program No. 2025665678. Date of state registration in the Register of computer programs: June 18, 2025.
+
 
 ## Feedback
 
