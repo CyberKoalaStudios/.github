@@ -26,14 +26,13 @@ CyberKoala Calls
 [![talksy](https://snapcraft.io/talksy/badge.svg)](https://snapcraft.io/talksy)
 [![talksy](https://snapcraft.io/talksy/trending.svg?name=0)](https://snapcraft.io/talksy)
 
-[![Get it from the Snap Store](https://snapcraft.io/en/dark/install.svg)](https://snapcraft.io/talksy)
+---
 
+CyberKoala Nexus — Windows Game Launcher for Linux
+ 
+[![https://github.com/CyberKoalaStudios/Nexus/blob/main/docs/screenshots/linux-game-launcher-library.png](https://github.com/CyberKoalaStudios/Nexus/blob/main/docs/screenshots/linux-game-launcher-library.png)](https://github.com/CyberKoalaStudios/Nexus)
 
-
-## Feedback
-
-If you have any feedback, please reach out to us at contact@cyberkoalastudios.com
-
+ 
 ---
 
 <!--
