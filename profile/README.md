@@ -1,4 +1,4 @@
-# CyberKoala™️ LLC
+# CyberKoala™️
 
 [![CyberKoala Logo](https://cyberkoalastudios.com/icons/cyberkoala-logo.svg)](https://learn.cyberkoalastudios.com)
 
