@@ -18,7 +18,7 @@ If we have fun creating our projects, much of that positive energy and fun will 
 
 CyberKoala Calls
 
-[![https://img.youtube.com/vi/MYtBh15G1sc/0.jpg](https://img.youtube.com/vi/MYtBh15G1sc/0.jpg)](https://calls.cyberkoala.ru/landing)
+[![https://img.youtube.com/vi/MYtBh15G1sc/0.jpg](https://img.youtube.com/vi/MYtBh15G1sc/0.jpg)](https://ccalls.site)
 
 > https://youtu.be/MYtBh15G1sc
  
