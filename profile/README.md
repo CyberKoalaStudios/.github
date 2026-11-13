@@ -6,11 +6,9 @@ Software Development Company. Delivering world-class applications since 2022.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/85986263/)
 
-🌏Our mission: making the world a better place through the power of design.
-
-🎯Our goal is to open doors of opportunity for you.
-
-🏆Our reward is to see your success.
+Our mission: making the world a better place through the power of design.
+Our goal is to open doors of opportunity for you.
+Our reward is to see your success.
 
 If we have fun creating our projects, much of that positive energy and fun will flow into the community. Our team consists of a world-class team of talented, ambitious and thoughtful people.
 
@@ -34,19 +32,6 @@ CyberKoala Nexus — Windows Game Launcher for Linux
 
  
 ---
-
-<!--
-![YouTube Channel Views Coolday](https://img.shields.io/youtube/channel/views/UCUpVfgd42h7pwZwCTcwjp8g)
-![YouTube Channel Views CyberkoalaRu](https://img.shields.io/youtube/channel/views/UCfEBnO2ZWyDHnN6bQSSlg1w)
-![YouTube Channel Views CyberkoalaLearn](https://img.shields.io/youtube/channel/views/UCzt_iPOTmriJlUjnJNDmm_g)
-
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzt_iPOTmriJlUjnJNDmm_g)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfEBnO2ZWyDHnN6bQSSlg1w)
--->
-
-[@CyberKoalaLearn](https://www.youtube.com/@CyberKoalaLearn)
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CyberKoalaStudios&color=blue&style=flat" alt="Profile Views">
