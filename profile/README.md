@@ -30,7 +30,7 @@ CyberKoala Nexus — Windows Game Launcher for Linux
  
 [![https://github.com/CyberKoalaStudios/Nexus/blob/main/docs/screenshots/linux-game-launcher-library.png](https://github.com/CyberKoalaStudios/Nexus/blob/main/docs/screenshots/linux-game-launcher-library.png)](https://github.com/CyberKoalaStudios/Nexus)
 
- 
+   <a href="https://github.com/CyberKoalaStudios/Nexus/releases/latest"><img src="https://img.shields.io/github/v/release/CyberKoalastudios/Nexus?style=for-the-badge&label=download&color=6f90ff" alt="Latest CyberKoala Nexus release"></a>
 ---
 
 <p align="center">
